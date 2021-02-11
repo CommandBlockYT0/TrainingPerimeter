@@ -1,2 +1,2 @@
 # TrainingPerimeter
-<script>alert();</script>
+<script>alert("утки");</script>
